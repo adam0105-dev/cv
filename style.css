@@ -1,0 +1,123 @@
+body {
+    background-color: #9DC08B;
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+}
+
+div {
+
+    background-color: #9DC08B;
+
+}
+
+.fll {
+    
+
+    height: 100hov;
+    background-color: #677a61;
+    padding-top: 70px;
+
+
+}
+
+.topcl {
+    position: relative;
+    left: 200px;
+    scale: 0.8;
+}
+
+.botcl {
+    position: relative;
+    right: 200px;
+    scale: 0.8;
+}
+
+.goup
+{
+    width: 40px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+
+}
+.tab
+{
+    background-color: initial;
+    position:fixed;
+    margin: 0;
+    right: 50px;
+    line-height: 1;
+    font-size: 120%;
+    top: 20px;
+   
+    font-family:'Brush Script MT', cursive, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    
+}
+th 
+{
+    padding-right: 30px;
+    font-weight: 100;
+}
+#hed1 {
+    margin: 0;
+    font-family:'sacramento',  'Brush Script MT', cursive;
+    font-size: 500%;
+    font-weight: 500;
+    color: #232722;
+    line-height: .9;
+}
+
+#pr1 {
+
+    color: #232722;
+    margin: 0;
+    line-height: 0.9;
+    font-size: 250%;
+    font-weight: 400;
+    font-family:'sacramento', 'Brush Script MT', cursive, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
+
+.mt1 {
+    position: relative;
+    scale: 0.8;
+}
+
+.abil
+{
+    width: 150px;
+}
+#pprt
+{
+    border-radius: 40%;
+}
+
+.middle-container
+{
+    color: #232722;
+    margin: 15px;
+    line-height: 1.2;
+    font-size: 100%;
+    font-weight: 400;
+    font-family:'Brush Script MT', cursive, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    padding: 20px
+}
+.bottom-container
+{
+    color: #232722;
+    margin: 15px;
+    
+    line-height: 0.9;
+    font-size: 100%;
+    font-weight: 400;
+    font-family:'Brush Script MT', cursive, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
